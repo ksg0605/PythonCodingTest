@@ -60,4 +60,6 @@ TodoList
    - [C형]
 
 - - - 
-[GitHub](https://github.com/ksg0605/PythonCodingTest.git)
+[[GitHub]](https://github.com/ksg0605/PythonCodingTest.git)
+
+[[국내 기술면접 가이드라인]](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
